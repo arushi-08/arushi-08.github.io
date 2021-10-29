@@ -1,2 +1,4 @@
 name: Arushi Sharma
 markdown: kramdown
+
+theme: jekyll-theme-cayman
